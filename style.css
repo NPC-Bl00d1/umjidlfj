@@ -1,0 +1,42 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: #3b5e45;
+color:white;
+}
+
+#status
+{
+font-size: 18px;
+background-color:#81cc95;
+}
+
+body{
+
+background-size:cover;
+background-position: center;
+
+}
+
+canvas{
+
+box-shadow: 10px 10px 10px gray;
+border-radius: 10px;
+background-color: #524652;
+margin-top: 30px;
+}
+
+
+
+ .footer{
+
+position: fixed;
+bottom:0;
+width: 100%;
+margin:0px;
+background: #5fcf7d;
+color:white;
+
+ }
